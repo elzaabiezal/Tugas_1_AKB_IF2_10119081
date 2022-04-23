@@ -8,6 +8,10 @@
     android:background="#F6F6F3"
     tools:context="com.example.tugas_1_akb_if2_10119081.LoginActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="10119081-Muhammad Elza Abiezal" />
 
     <LinearLayout
         android:id="@+id/linear_logo"
